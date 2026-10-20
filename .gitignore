@@ -1,0 +1,14 @@
+*~
+*.o
+*.so
+install/*
+!install/.gitkeep
+src/tmp.c
+.vscode/
+server
+alltests
+*.gcov
+*.gcda
+*.gcno
+/*.dot
+/*.png
